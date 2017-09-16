@@ -1,0 +1,11 @@
+--- FAJAR BARDAN SALAM || 1506689401 || APAP-A ---
+
+Pada tutorial kedua ini, saya belajar menggunakan Routing dan Controller dalam Project Spring Boot.
+Saya belajar bagaimana membuat program sederhana Project Spring Boot.
+Ada beberapa pengetahuan baru yang saya dapat dari tutorial 2 ini, yaitu :
+- Ada istilah Controller (@Controller) yang menandakan bahwa kelas yang dianotasikan dengan @Controller tersebut merupakan sebuah controller.
+  Controller merupakan salah satu komponen pada pattern MVC, dimana Controller ini akan merespond HTTP requests dan mengembalikan View.
+- Saya belajar latihan Request Parameter dan Path Variable pada project spring boot. Dimana kedua hal ini akan sering digunakan kedepannya untuk membuat request.
+- Terakhir, saya belajar membuat sebuah program sederhana untuk menghitung perkalian, dimana program tersebut merequest query string untuk mengalikan angka yang akan dihitung.
+
+NOTE : Jawaban dari point-point latihan ada di PDF, source code terlampir.
